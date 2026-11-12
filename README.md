@@ -3,6 +3,6 @@ This is a Javascript code I wrote which creates a Neural Network and uses it to 
 
 It is very simple to run it just click the link below!
 
-
+[cozy-lily-bd6e6f.netlify.app]
 
 I trained the model through neuroevolution. This is a process where a well performing model is mutated off of and used to create a better model to play a game. This is then repeated until an AI is reasonably good at knowing where to move. All of the models are Neural Networks with hidden weights and biases. Then are then tuned through neuroevolution to achieve an AI which is good at its assigned task.

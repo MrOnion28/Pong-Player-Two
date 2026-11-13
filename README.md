@@ -7,7 +7,7 @@ It is very simple to run it just click the link below!
 
 I trained the model through neuroevolution. This is a process where a well performing model is mutated off of and used to create a better model to play a game. This is then repeated until an AI is reasonably good at knowing where to move. All of the models are Neural Networks with hidden weights and biases. Then are then tuned through neuroevolution to achieve an AI which is good at its assigned task.
 
-#Ai usage
+# AI use
 I used AI to explain neural networks and neuroevolution to me. I also used some AI when coding my pong mechanics. Other than this, I did not use AI for any part of my code, only to explain topics.
 
 <img width="857" height="500" alt="image" src="https://github.com/user-attachments/assets/434f7677-80f9-4ec5-b5fa-13bed8776c20" />
